@@ -17,9 +17,9 @@ A seguir os filtros foram acionados para obter os insights por tipo de cliente.<
 **INSIGHTS** </br>
 * Os clientes A são responsáveis por 80% do faturamento do estabelecimento. Eles representam 38% da base total de clientes.
 * Campanha: foram os que mais aceitaram campanhas dentre os 3 grupos, sendo 17% (o valor representa o total dentro do próprio grupo, e não em relação a todos os clientes);
-* Idade: a distribuição de idade se aproxima de uma curva normal; mais da metade se encontram na faixa de 41 a 60 anos;
+* Idade: a maioria dos clientes se encontram na faixa de 41 a 60 anos;
 * Faixa de renda: a maioria dos clientes possuem faixa de renda igual ou superior a $69000.00 anuais;
-* Produto: os produtos mais consumidos são vinhos e carnes;
+* Produto: os produtos mais consumidos são vinhos;
 * Dependentes: 92% não tem crianças em casa e 59% não tem adolescentes em casa. Ou seja, a maioria não tem dependentes.
 
 
@@ -32,7 +32,7 @@ A seguir os filtros foram acionados para obter os insights por tipo de cliente.<
 * Idade: a maioria se encontra na faixa de 41 a 50 anos;
 * Faixa de renda: a maioria possui faixa de renda entre $50000.00 e $68000.00 anuais;
 * Produto: os produtos mais consumidos são vinhos;
-* Dependentes: neste caso, a maioria dos clientes tem dependentes, sendo eles adolescentes.
+* Dependentes: a maioria dos clientes tem dependentes, sendo eles adolescentes.
 
 
 ## **Clientes C**
@@ -44,4 +44,4 @@ A seguir os filtros foram acionados para obter os insights por tipo de cliente.<
 * Idade: a maioria se encontra na faixa de 31 a 40 anos;
 * Faixa de renda: a maioria possui faixa de renda igual $17000 e $35000 anuais;
 * Produto: os produtos mais consumidos são vinhos;
-* Dependentes: neste caso, a maioria também tem dependentes, sendo eles crianças.
+* Dependentes: a maioria tem dependentes, sendo eles crianças.
